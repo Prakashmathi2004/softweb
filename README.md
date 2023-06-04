@@ -33,7 +33,8 @@ Publish the website in the given URL.
 
 ![out1](https://github.com/Prakashmathi2004/softweb/assets/118350045/7da515dd-1286-4aa2-8d53-15a7f0e9b220)
 
-![Uploading out2.png…]()
+
+
 
 
 ## HTML VALIDATOR:
