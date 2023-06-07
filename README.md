@@ -721,7 +721,10 @@ styles.css
 ![out2](https://github.com/Prakashmathi2004/softweb/assets/118350045/e865331a-4024-4e5c-ac99-a5d7e61bdffe)
 
 
-![out5](https://github.com/Prakashmathi2004/softweb/assets/118350045/65ef5336-e0b8-4f68-9805-6055fcfe75c5)
+![out3](https://github.com/Prakashmathi2004/softweb/assets/118350045/b5fe3aa4-5035-4372-9241-6e028ba97ffc)
+
+![out4](https://github.com/Prakashmathi2004/softweb/assets/118350045/ac47686d-cea5-40ca-a333-10d72247ac7a)
+
 
 ![out6](https://github.com/Prakashmathi2004/softweb/assets/118350045/a6a7a90b-ebcd-4519-b8ec-9fd6ef216801)
 
